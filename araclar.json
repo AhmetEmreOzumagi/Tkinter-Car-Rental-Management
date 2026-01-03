@@ -1,0 +1,79 @@
+[
+    {
+        "plaka": "42 RA 772",
+        "marka": "Kanuni",
+        "model": "S125T",
+        "ucret": 1000,
+        "durum": "bak\u0131mda",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": "",
+        "not": ""
+    },
+    {
+        "plaka": "42 RJ 572",
+        "marka": "Renault",
+        "model": "Megane",
+        "ucret": 2000,
+        "durum": "kirada",
+        "kiralayan": "Ahmet Emre \u00d6z\u00fcma\u011f\u0131",
+        "baslangic_tarihi": "15-12-2025",
+        "bitis_tarihi": "12-01-2026",
+        "not": ""
+    },
+    {
+        "plaka": "77 ABL 256",
+        "marka": "Hyundai",
+        "model": "Tucson",
+        "ucret": 2500,
+        "durum": "kirada",
+        "kiralayan": "Elif B\u00fc\u015fra \u00c7aylan",
+        "baslangic_tarihi": "15-12-2025",
+        "bitis_tarihi": "20-12-2025",
+        "not": ""
+    },
+    {
+        "plaka": "42 ABT 880",
+        "marka": "Fiat",
+        "model": "Punto",
+        "ucret": 1500,
+        "durum": "m\u00fcsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": "",
+        "not": ""
+    },
+    {
+        "plaka": "34 SST 299",
+        "marka": "Ferrari",
+        "model": "FXX-K",
+        "ucret": 15000,
+        "durum": "m\u00fcsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": "",
+        "not": ""
+    },
+    {
+        "plaka": "42 RA 426",
+        "marka": "Renault",
+        "model": "Clio",
+        "ucret": 1450,
+        "durum": "m\u00fcsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": "",
+        "not": ""
+    },
+    {
+        "plaka": "07 FHR 32",
+        "marka": "Togg",
+        "model": "T10F",
+        "ucret": 4500,
+        "durum": "kirada",
+        "kiralayan": "Fahri Erdo\u011fan",
+        "baslangic_tarihi": "13-09-2025",
+        "bitis_tarihi": "15-09-2025",
+        "not": ""
+    }
+]
